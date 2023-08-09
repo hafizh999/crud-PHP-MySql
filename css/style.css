@@ -1,0 +1,24 @@
+body {
+  background-color: darkcyan;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.form_full {
+  width: 500px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 21px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgb(251, 251, 251);
+}
+
+img {
+  max-width: 100%;
+
+}
